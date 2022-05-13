@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/Nikita-Mamaev/Nikita-Mamaev/blob/main/assets/banner.png)
 
 About me
 
