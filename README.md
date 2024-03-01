@@ -2,11 +2,11 @@
 
 ### I'm a iOS Developer
 * 🔭 I am currently working on iOS applications.
-* 🌱 Now I'm learning Swift, Flutter and all that
+* 🌱 Now I'm learning Swift, Ruby and all that
 * ⚡ Fun fact: I love traveling and making YouTube videos
 
 ### Languages and Tools:
-![Swift](https://img.shields.io/badge/-SWIFT-black?style=for-the-badge&logo=swift) ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git) ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=flutter)
+![Swift](https://img.shields.io/badge/-SWIFT-black?style=for-the-badge&logo=swift) ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/MamaevNik) 
