@@ -2,7 +2,7 @@
 
 ### I'm a iOS Developer
 * 🔭 I am currently working on iOS applications.
-* 🌱 Now I'm learning Ruby and backend development.
+* 🌱 Now I'm learning Golang and backend development.
 * ⚡ Fun fact: I love traveling and making YouTube videos
 
 ### Languages and Tools:
